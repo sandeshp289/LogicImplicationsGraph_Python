@@ -2,7 +2,7 @@
 
 Description:
 
-    Static Logic Implications in Python
+    Static Logic Implications (Direct, Indirect, Extended Backward, Contrapositive) in Python
 
 Code I:
 
