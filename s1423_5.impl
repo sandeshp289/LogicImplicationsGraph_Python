@@ -1,0 +1,26 @@
+IMPLICATION ENGINE OUTPUT:
+Successfully read in circuit:
+17 PIs.
+5 POs.
+74 DFFs.
+753 total number of gates.
+60 levels in the circuit.
+
+---------------------------------------------------
+Implications of (5,0,0)
+---------------------------------------------------
+Direct Implications:
+[(213, 0, 0), (5, 0, 0), (123, 1, 0)]
+3 Direct Implications
+Indirect and Contrapositive Implications:
+0  Indirect Implications
+0  Indirect Contrapositive Implications
+Direct + Indirect Implications:
+[(213, 0, 0), (5, 0, 0), (123, 1, 0)]
+3 Direct+Indirect Implications
+EB Implications:
+0  EB Implications
+0  EB Contrapositive Implications
+Direct+Indirect+EB Implications:
+[(213, 0, 0), (5, 0, 0), (123, 1, 0)]
+3 Total (Direct+Indirect+EB) Implications
